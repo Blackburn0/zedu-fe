@@ -40,7 +40,6 @@ const members = [
   "tayo jubril",
   "Majiroghene",
   "cjaynduagwuike",
-  "Hamzat Adebayo",
   "Ndulue Chinedu Marvellous",
   "Agnes Livingstone",
   "Solomon chimeremeze Solomon",
